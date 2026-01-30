@@ -97,12 +97,8 @@ Outside of coding, I enjoy activities that inspire creativity and balance, inclu
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/kevinkiplangat432">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinkiplangat432&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kevin Kiplangat's GitHub Stats"/>
-</a>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkiplangat432&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
+
 
 <br/><br/>
 
@@ -122,11 +118,6 @@ Outside of coding, I enjoy activities that inspire creativity and balance, inclu
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💭 Dev Quote of the Day
-
-<div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
 
 <!-- Footer - Professional Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:415a77,25:1b263b,50:0d1b2a,75:1b263b,100:415a77&height=120&section=footer"/>
