@@ -123,7 +123,7 @@ Outside of coding, I enjoy activities that inspire creativity and balance, inclu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:415a77,25:1b263b,50:0d1b2a,75:1b263b,100:415a77&height=120&section=footer"/>
 
 <div align="center">
-**⭐ From [Kevin Kiplangat](https://github.com/kevinkiplangat432) with 💙**
+** From Kevin Kiplangat https://github.com/kevinkiplangat432 with 💙**
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
 <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Powered by GitHub Actions"/>
 </div>
