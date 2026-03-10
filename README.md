@@ -96,15 +96,20 @@ Outside of coding, I enjoy activities that inspire creativity and balance, inclu
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Card -->
+<a href="https://github.com/kevinkiplangat432">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinkiplangat432&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
 
-
+<a href="https://github.com/kevinkiplangat432">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkiplangat432&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/kevinkiplangat432">
-<img src="https://nirzak-streak-stats.vercel.app/?user=kevinkiplangat432&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=kevinkiplangat432&theme=dark&hide_border=false&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -112,6 +117,13 @@ Outside of coding, I enjoy activities that inspire creativity and balance, inclu
 <!-- Activity Graph -->
 <a href="https://github.com/kevinkiplangat432">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinkiplangat432&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</a>
+
+<br/><br/>
+
+<!-- Trophies -->
+<a href="https://github.com/kevinkiplangat432">
+<img src="https://github-profile-trophy.vercel.app/?username=kevinkiplangat432&theme=dark&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </a>
 
 </div>
