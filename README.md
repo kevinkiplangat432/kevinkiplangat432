@@ -27,11 +27,11 @@ Currently, my primary focus is exploring how organizations can safely adopt AI t
 
 ## Currently Building
 
-### AERIS Governance
+### ARVIS Governance
 
 The Control Layer for Enterprise AI
 
-AERIS Governance is an enterprise AI governance platform designed to help organizations deploy AI safely, responsibly, and in compliance with emerging regulations.
+ARVIS Governance is an enterprise AI governance platform designed to help organizations deploy AI safely, responsibly, and in compliance with emerging regulations.
 
 Core Capabilities:
 
@@ -99,21 +99,21 @@ Build the infrastructure layer that enables organizations to trust and scale AI 
 
 ## Featured Projects
 
-### AERIS Governance
+### [ARVIS](https://github.com/kevinkiplangat432/ARVIS-LookMind.git)
 
 Enterprise AI monitoring, auditing, and compliance platform.
 
-### Readify
+### [Palspay](https://github.com/kevinkiplangat432/Pals-pay.git)
 
-Book discovery and reading platform built with React and modern frontend architecture.
+A full-stack digital wallet application supporting multi-currency transactions, M-Pesa integration, KYC verification, and comprehensive admin management.
 
-### Smart Expense Tracker
+### [Reverse-proxy-load-balancer](https://github.com/kevinkiplangat432/Reverse-Proxy-Load_balancer.git)
 
-Python-based financial tracking system focused on software engineering fundamentals and data handling.
+A production-style reverse proxy and load balancer built in Go. This starter project is designed to route traffic across multiple backend services reliably and efficiently while providing observability, resiliency, and runtime configuration.
 
-### Data Science & Machine Learning Projects
+### [Machine-Learning-Models-for-AI-risk-detection-system](https://github.com/kevinkiplangat432/AI-risk-detection.git)
 
-Practical machine learning and analytics projects focused on solving real-world problems through data.
+AI Risk Detection System is a machine learning project that analyzes AI system logs and events to identify potentially risky behavior. The system uses anomaly detection and classification techniques to detect unusual activity, policy violations, and security risks. It provides risk scores and insights that can help organizations monitor and govern AI systems more effectively.
 
 ---
 
@@ -136,20 +136,20 @@ Questions that interest me:
 * Deepening expertise in AI infrastructure and observability
 * Advancing my skills in machine learning and data science
 * Contributing to open-source projects
-* Building AERIS Governance
+* Building ARVIS Governance into a community
 
 ---
 
 ## Let's Connect
 
-GitHub:
-github.com/kevinkiplangat432
+### GitHub:
+<https://github.com/kevinkiplangat432>
 
-LinkedIn:
-linkedin.com/in/kevin-kiplangat-794990360
+### LinkedIn:
+<https://www.linkedin.com/in/kevin-kiplangat-794990360/>
 
-Portfolio:
-github.com/kevinkiplangat432/Portfolio
+### Email:
+<kiplangatkevin335@gmail.com>
 
 ---
 
