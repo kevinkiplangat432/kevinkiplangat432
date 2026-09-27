@@ -3,6 +3,7 @@
 # Kevin Kiplangat
 
 ### Software Engineer • Data Scientist • AI Infrastructure Builder
+I build software. I work with ML/data. I'm moving toward AI infrastructure.
 
 Building the systems that make AI trustworthy, observable, and safe to deploy at scale.
 
@@ -99,6 +100,10 @@ Build the infrastructure layer that enables organizations to trust and scale AI 
 * TensorFlow
 * Machine Learning Pipelines
 * Data Analysis
+* Scipy 
+* Matplotlib and seaborn
+* Jupyter and Notebooks in CRISP_DM methodology
+
 
 </td>
 <td width="33%" valign="top">
@@ -171,15 +176,13 @@ I'm particularly interested in:
 
 ---
 
-## Current Goals
+## Currently Learning
 
-* Building production-grade backend systems in Go
-* Deepening expertise in AI infrastructure and observability
-* Advancing my skills in machine learning and data science
-* Contributing to open-source projects
-* Building ARVIS Governance into a community
-
----
+* MLOps & ML infrastructure
+* Cloud architecture
+* Distributed systems
+* Production machine learning
+* Advanced Go
 
 ## Let's Connect
 
