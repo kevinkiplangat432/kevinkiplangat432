@@ -49,7 +49,7 @@ Build the infrastructure layer that enables organizations to trust and scale AI 
 
 ---
 
-## Technical Stack
+## My Technical Stack
 
 <table>
 <tr>
