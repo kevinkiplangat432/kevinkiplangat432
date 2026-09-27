@@ -140,13 +140,19 @@ A full-stack digital wallet supporting multi-currency transactions, M-Pesa integ
 
 A production-style reverse proxy and load balancer built in Go with traffic routing, observability, resiliency, and runtime configuration.
 
-### [Project Name](https://github.com/your-username/repository)
+### [Distributed Task Queue](https://github.com/kevinkiplangat432/Distributed-task-queue)
 
-Short one or two sentence description of what the project does, the problem it solves, and the main technologies used.
+Reliable asynchronous job processing for distributed systems, built in Go
 
-### [Project Name](https://github.com/your-username/repository)
+### [Atlas ML Platform](https://github.com/kevinkiplangat432/machine-learning-platform)
 
-Short one or two sentence description of what the project does, the problem it solves, and the main technologies used.
+Status: Early development.
+
+A production-oriented platform for training, deploying, serving, and operating machine-learning workloads
+
+### [Kenya Food Price Early Warning System](https://github.com/kevinkiplangat432/Predictive-Time-Series-Pipeline-using-a-Dual-Input-LSTM-and-Geospatial-Mapping)
+
+A system that forecasts Kenyan staple food prices and flags markets moving outside their own normal range, built on public WFP price data and NASA POWER weather data. Intended users are farmers timing sales, traders managing inventory, and NGOs and county offices watching for early signs of food-price stress.
 
 ---
 
